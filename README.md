@@ -3,10 +3,10 @@
 I’m a Computer Science and Engineering student passionate about AI, machine learning, and building solutions that connect technology, design, and sustainability. I work across software development, data science, and engineering systems to solve genuine real world problems. I usually focus on energy systems with environment based technologies, and on projects that work with AI, analytics, and data insights. I have an interest in both, and for my own projects, I strive to find unique ways to connect them together. Some fun facts about me is that I run a car business, volunteer in healthcare & energy conservation non-profits, and I customize my own skateboards!
 
 ### Skills
-- Programming: Python, Java, C++, SQL
-- Data & AI: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
-- Engineering & Design: CAD, 3D modeling, design optimization, stress analysis
-- Tools: AWS, Azure, Tableau, Power BI, Git
+- Programming: Python, Java, C++, SQL.
+- Data & AI: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch.
+- Engineering & Design: CAD, 3D modeling, design optimization, stress analysis.
+- Tools: AWS, Azure, Tableau, Power BI, Git.
 
 ### Featured Projects
 - Water Conservation Tracker – Full-stack web app for tracking and reducing water usage.
